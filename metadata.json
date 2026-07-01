@@ -1,0 +1,6 @@
+{
+  "name": "Premier League 26/27",
+  "description": "Live Football Intelligence Platform for the 2026-27 Premier League season. Features real-time matches, live standings, transfers, fantasy insights, and an AI Football Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
